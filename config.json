@@ -2,7 +2,7 @@
     "auth": {
         "registry.hub.docker.com": {
             "username": "cn-jssz1@SQVWP6IY8X2OLB4IQIEO",
-            "password": "DOCKERHUB_PASSWORD"
+            "password": "DOCKERHUB_PASSWD"
         }
     },
     "images": {
