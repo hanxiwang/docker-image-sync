@@ -1,0 +1,26 @@
+{
+    "auth": {
+        "registry.hub.docker.com": {
+            "username": "cn-jssz1@SQVWP6IY8X2OLB4IQIEO",
+            "password": "DOCKERHUB_PASSWORD"
+        }
+    },
+    "images": {
+          "registry.k8s.io/ingress-nginx/kube-webhook-certgen": "a121673163/kube-webhook-certgen"
+          "quay.io/coreos/kube-rbac-proxy": "a121673163/kube-rbac-proxy",
+          "k8s.gcr.io/metrics-server/metrics-server": "a121673163/metrics-server",
+          "k8s.gcr.io/ingress-nginx/controller": "a121673163/ingress-nginx-controller",
+          "k8s.gcr.io/git-sync/git-sync": "a121673163/git-sync",
+          "gcr.io/kaniko-project/executor:debug,latest": "a121673163/kaniko-executor",
+          "k8s.gcr.io/kube-state-metrics/kube-state-metrics": "a121673163/kube-state-metrics",
+          "k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner": "a121673163/nfs-subdir-external-provisioner",
+          "k8s.gcr.io/prometheus-adapter/prometheus-adapter": "a121673163/prometheus-adapter",
+          "k8s.gcr.io/kube-apiserver": "a121673163/kube-apiserver",
+          "k8s.gcr.io/kube-controller-manager": "a121673163/kube-controller-manager",
+          "k8s.gcr.io/kube-scheduler": "a121673163/kube-scheduler",
+          "k8s.gcr.io/kube-proxy": "a121673163/kube-proxy",
+          "k8s.gcr.io/pause": "a121673163/pause",
+          "k8s.gcr.io/etcd": "a121673163/etcd",
+          "coredns/coredns": "a121673163/coredns"
+    }
+}
