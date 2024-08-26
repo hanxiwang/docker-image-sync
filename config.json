@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "jertel/elastalert2:2.19.0": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/jertel/elastalert2:2.19.0" 
+          "jertel/elastalert2:2.18.0": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/jertel/elastalert2:2.18.0" 
     }
 }
