@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "jertel/elastalert2:2.18.0": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/jertel/elastalert2:2.18.0" 
+          "karql/elastalert2-server:5.5.0": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/karql/elastalert2-server:5.5.0" 
     }
 }
