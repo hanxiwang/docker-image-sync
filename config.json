@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "karql/elastalert2-server:5.5.0": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/karql/elastalert2-server:5.5.0" 
+          "apache/hertzbeat:latest": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/apache/hertzbeat:latest" 
     }
 }
