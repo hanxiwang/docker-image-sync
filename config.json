@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "apache/hertzbeat:latest": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/apache/hertzbeat:latest" 
+          "prom/prometheus:v2.47.2": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/prom/prometheus:v2.47.2" 
     }
 }
