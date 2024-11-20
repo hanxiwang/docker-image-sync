@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "prom/alertmanager:v0.25.0": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/alertmanager:v0.25.0" 
+          "google/cadvisor:latest": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/cadvisor:latest" 
     }
 }
