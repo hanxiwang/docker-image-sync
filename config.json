@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "google/cadvisor:latest": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/cadvisor:latest" 
+          "grafana/grafana:9.4.3": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/grafana:9.4.3" 
     }
 }
