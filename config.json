@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "prom/prometheus:v2.37.6": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/prometheus:v2.37.6" 
+          "mysql:8.1.0": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/mysql:8.1.0" 
     }
 }
