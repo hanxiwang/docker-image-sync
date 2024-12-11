@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "mysql:8.1.0": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/mysql:8.1.0" 
+          "netdata/netdata:latest": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/netdata:latest" 
     }
 }
