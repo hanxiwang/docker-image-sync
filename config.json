@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "netdata/netdata:latest": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/netdata:latest" 
+          "sensu/sensu:latest": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/sensu:latest"
     }
 }
