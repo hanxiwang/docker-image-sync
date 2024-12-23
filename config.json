@@ -6,6 +6,6 @@
         }
     },
     "images": {
-          "sensu/sensu:latest": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/sensu:latest"
+          "envoyproxy/envoy-alpine:v1.21-latest": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/envoyproxy:v1.21-latest"
     }
 }
