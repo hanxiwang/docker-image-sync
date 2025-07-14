@@ -1,11 +1,11 @@
 {
     "auth": {
-        "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com": {
-            "username": "韩汐sir",
+        "registry.cn-jssz1.ctyun.cn": {
+            "username": "cn-jssz1@SQVWP6IY8X2OLB4IQIEO",
             "password": "DOCKERHUB_PASSWD"
         }
     },
     "images": {
-          "envoyproxy/envoy-alpine:v1.21-latest": "crpi-xy9aqntz96rih8kq.cn-shanghai.personal.cr.aliyuncs.com/songjie0509/envoyproxy:v1.21-latest"
+          "fluent/fluentd-kubernetes-daemonset:v1.18.0-debian-kafka2-amd64-1.5": "registry.cn-jssz1.ctyun.cn/gykg-401-szp-ccr-uat-gksk/fluentd-kubernetes-daemonset:v1.18.0-debian-kafka2-amd64-1.5"
     }
 }
